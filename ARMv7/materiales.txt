@@ -1,0 +1,2 @@
+Materiales:
+1. https://cpulator.01xz.net/?sys=arm-de1soc
